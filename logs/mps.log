@@ -1,0 +1,48 @@
+===== torch-benchmark-mps-1 =====
+gpu_name: Tesla T4
+total_memory_gb: 14.56
+matrix_size: 4096
+duration_sec: 300
+warmup_steps: 10
+steps_done: 2045
+total_time_sec: 300.05
+avg_step_sec: 0.1467
+min_step_sec: 0.1286
+max_step_sec: 0.1713
+peak_cuda_mem_gb: 0.26
+===== torch-benchmark-mps-2 =====
+gpu_name: Tesla T4
+total_memory_gb: 14.56
+matrix_size: 4096
+duration_sec: 300
+warmup_steps: 10
+steps_done: 2045
+total_time_sec: 300.06
+avg_step_sec: 0.1467
+min_step_sec: 0.1263
+max_step_sec: 0.1557
+peak_cuda_mem_gb: 0.26
+===== torch-benchmark-mps-3 =====
+gpu_name: Tesla T4
+total_memory_gb: 14.56
+matrix_size: 4096
+duration_sec: 300
+warmup_steps: 10
+steps_done: 2045
+total_time_sec: 300.01
+avg_step_sec: 0.1467
+min_step_sec: 0.1062
+max_step_sec: 0.1557
+peak_cuda_mem_gb: 0.26
+===== torch-benchmark-mps-4 =====
+gpu_name: Tesla T4
+total_memory_gb: 14.56
+matrix_size: 4096
+duration_sec: 300
+warmup_steps: 10
+steps_done: 2046
+total_time_sec: 300.08
+avg_step_sec: 0.1467
+min_step_sec: 0.086
+max_step_sec: 0.1557
+peak_cuda_mem_gb: 0.26
